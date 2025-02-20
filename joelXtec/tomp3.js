@@ -14,7 +14,7 @@ const tomp3 = async (m, gss) => {
       return m.reply(`Send/Reply with Video to convert into MP3 with caption ${prefix + cmd}`);
     }
 
-    m.reply(' *Converting to mp3 Joel xmd, please wait...*');
+    m.reply(' *Converting to mp3 Teddytech, please wait...*');
     const media = await m.quoted.download();
     const audio = await toAudio(media, 'mp4'); // Correctly importing toAudio function
 
