@@ -25,8 +25,8 @@ const config = {
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
   OWNER_NAME: process.env.OWNER_NAME || "ℓσя∂ ʝσєℓ",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "255714595078",
-  SUDO_NUMBER: process.env.SUDO_NUMBER || "255781144539",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254717108466",
+  SUDO_NUMBER: process.env.SUDO_NUMBER || "254717108466",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
